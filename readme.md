@@ -6,6 +6,18 @@ I appreciate your continued interest in this project!
 
 Happy reading!
 
+UPDATE #2 -- 2/4/2022
+
+Hello again (again)!! Thanks to the amazing Autumn Rivers I was able to acquire A LOT of the stuff that I need! They are running a project VERY similar to mine, and I'd like to thank them and link their project here. Thanks so much for your help~ https://natirivers.itch.io/harvest-december-remake https://nitter.net/natirivers
+
+Thanks to this, I think that work will go a bit more smoothly. I might end up using the George Henry Shaft translation (release for iOS devices) that Autumn uses, but that's still up in the air.
+
+In the end--I do think and hope that things will pick up with this project! Yay~
+
+I appreciate your continued interest!
+
+-takoyaki :)
+
 UPDATE #1 -- 11/30/2021
 
 Hello again!! I have done some work on the project, but have hit a major snag in the conversion of image, video, and sound files from the 3DS version into filetypes specified by the script (.png, .mp4, .wav).
