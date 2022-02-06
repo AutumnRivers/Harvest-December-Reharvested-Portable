@@ -1,4 +1,4 @@
-Welcome to HarvestDecemberRenPy! This is a RenPy port of the 3DS VN "Harvest December", to the Nintendo Switch and PS Vita.
+Welcome to HarvestDecemberRenPy! This is a RenPy port of the 3DS (and iOS and PC) VN "Harvest December", to the Nintendo Switch and PS Vita.
 
 Work is starting now--it may be slow but I will update this readme with my progress.
 
@@ -6,11 +6,10 @@ I appreciate your continued interest in this project!
 
 Happy reading!
 
+
 UPDATE #2 -- 2/4/2022
 
-Hello again (again)!! Thanks to the amazing Autumn Rivers I was able to acquire A LOT of the stuff that I need! They are running a project VERY similar to mine, and I'd like to thank them and link their project here. Thanks so much for your help~ https://natirivers.itch.io/harvest-december-remake https://nitter.net/natirivers
-
-Thanks to this, I think that work will go a bit more smoothly. I might end up using the George Henry Shaft translation (release for iOS devices) that Autumn uses, but that's still up in the air.
+Hello again (again)!! Thanks to the amazing Autumn Rivers I was able to acquire A LOT of the stuff that I need! They are running a project VERY similar to mine, and I'd like to thank them and link their project here. Because they are officially supporting me, I have also decided to use the George Henry Shaft translation that they use. Sometime I may work on formatting the 3DS's script to RenPy, but for now I'll try compiling what Autumn has given me! Thanks so much for your help, Autumn~ (and please check them out if you own a PC!!) https://natirivers.itch.io/harvest-december-remake https://nitter.net/natirivers
 
 In the end--I do think and hope that things will pick up with this project! Yay~
 
