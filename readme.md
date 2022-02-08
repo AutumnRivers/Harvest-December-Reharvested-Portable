@@ -1,6 +1,6 @@
-Welcome to HarvestDecemberRenPy! (name not final. probably will be called "Harvest December: Reharvested: Portable" or something like that!)
+Welcome to Harvest December: Reharvested: Portable!
 
-This is a RenPy port of the 3DS (and iOS and PC) VN "Harvest December", to the Nintendo Switch and PS Vita. It uses Autumn Rivers' code! (they run Harvest December: Reharvested, a PC port of Harvest December)
+This is a RenPy port of the 3DS (and iOS and PC) VN "Harvest December", to the Nintendo Switch and PS Vita. It uses Autumn Rivers' code! (they run Harvest December: Reharvested, a PC port of Harvest December, which is of course what this project is based off of)
 
 Work is starting now--it may be slow but I will update this readme with my progress.
 
