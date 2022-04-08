@@ -12,7 +12,9 @@ A big thank you to @SilverCrow2323 for being a huge help with the port! Without 
 
 I appreciate your continued interest in this project!
 
-(Autumn's info~ https://natirivers.itch.io/harvest-december-remake & https://nitter.net/natirivers)
+Autumn's info~
+- https://natirivers.itch.io/harvest-december-remake 
+- https://nitter.net/natirivers
 
 Happy reading!
 
