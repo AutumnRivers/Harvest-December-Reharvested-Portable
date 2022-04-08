@@ -4,25 +4,17 @@
 
 Welcome to Harvest December: Reharvested: Portable!
 
-This is a RenPy port of the 3DS (and iOS and PC) VN "Harvest December", to the Nintendo Switch and PS Vita. It uses Autumn Rivers' code! (they run Harvest December: Reharvested, a PC port of Harvest December, which is of course what this project is based off of)
+This is a RenPy port of the 3DS (and iOS and PC) VN "Harvest December", to the Nintendo Switch and PS Vita. It uses Autumn Rivers' code! (they run Harvest December: Reharvested, a PC port of Harvest December, which is of course what this project is based off of!)
 
-Work is starting now--it may be slow but I will update this readme with my progress.
+Ths VN is in the process of being ported! Vita first and hopefully Switch afterwards!
 
-
+A big thank you to @SilverCrow2323 for being a huge help with the port! Without his help this project wouldn't have been able to get running off the ground!
 
 I appreciate your continued interest in this project!
 
 (Autumn's info~ https://natirivers.itch.io/harvest-december-remake & https://nitter.net/natirivers)
 
 Happy reading!
-
-_Original repository:_ https://github.com/takoyaki99/Harvest-December-Reharvested-Portable
-
---- 
-
-## FULL UPDATES ON THE PROJECT:
-_Original repository:_ https://github.com/takoyaki99/Harvest-December-Reharvested-Portable
-
 
 ## UPDATE HISTORY
 - UPDATE #4 -- 4/8/2022
@@ -31,7 +23,7 @@ Hello, here's SilverCrow.
 
 I got to know this VN thanks to takoyaki who contacted me in one of my Repositories, letting me know about this project and Autumn's work.
 
-Afterwards he kindly passed me all the files of Autumn's work so I could have a better management of the project (also on Renpy SDK).
+Afterwards she kindly passed me all the files of Autumn's work so I could have a better management of the project (also on Renpy SDK).
 
 I must say that I'm finding this VN particularly interesting, really "lively" humour with an engaging story.
 
