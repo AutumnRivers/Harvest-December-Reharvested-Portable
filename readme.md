@@ -17,7 +17,7 @@ I appreciate your continued interest in this project!
 Happy reading!
 
 ## UPDATE HISTORY
-- UPDATE #4 -- 4/8/2022
+- **UPDATE #4 -- 4/8/2022**
 
 Hello, here's SilverCrow.
 
@@ -41,7 +41,7 @@ We'll keep you updated
 
 ---
 
-- UPDATE #3 -- 2/25/2022
+- **UPDATE #3 -- 2/25/2022**
 
 Hello for the third time! Small update here but--I have started (trying) to compile Autumn's port for the Switch version! The program I'm using doesn't want to work for whatever reason but I emailed the creator and am working on fixing it hopefully~! And as for the Vita version I saw that that one needs some more prerequisite programs, so that'll likely take a bit longer. I might need to make modifications to the Vita version depending on if the Vita version will crash or not in certain spots.
 
@@ -53,7 +53,7 @@ I appreciate your interest in this project!
 
 ---
 
-- UPDATE #2 -- 2/4/2022
+- **UPDATE #2 -- 2/4/2022**
 
 Hello again (again)!! Thanks to the amazing Autumn Rivers I was able to acquire A LOT of the stuff that I need! They are running a project VERY similar to mine, and I'd like to thank them and link their project here. Because they are officially supporting me, I have also decided to use the George Henry Shaft translation that they use. Sometime I may work on formatting the 3DS's script to RenPy, but for now I'll try compiling what Autumn has given me! Thanks so much for your help, Autumn~ (and please check them out if you own a PC!!) https://natirivers.itch.io/harvest-december-remake https://nitter.net/natirivers
 
@@ -65,7 +65,7 @@ I appreciate your continued interest!
 
 ---
 
-- UPDATE #1 -- 11/30/2021
+- **UPDATE #1 -- 11/30/2021**
 
 Hello again!! I have done some work on the project, but have hit a major snag in the conversion of image, video, and sound files from the 3DS version into filetypes specified by the script (.png, .mp4, .wav).
 
