@@ -1,17 +1,56 @@
+# Harvest December: Reharvested! Portable
+
+## Project introduction by takoyaki99
+
 Welcome to Harvest December: Reharvested: Portable!
 
 This is a RenPy port of the 3DS (and iOS and PC) VN "Harvest December", to the Nintendo Switch and PS Vita. It uses Autumn Rivers' code! (they run Harvest December: Reharvested, a PC port of Harvest December, which is of course what this project is based off of)
 
 Work is starting now--it may be slow but I will update this readme with my progress.
 
+
+
 I appreciate your continued interest in this project!
 
-(Autumn's info~ https://natirivers.itch.io/harvest-december-remake https://nitter.net/natirivers)
+(Autumn's info~ https://natirivers.itch.io/harvest-december-remake & https://nitter.net/natirivers)
 
 Happy reading!
 
+_Original repository:_ https://github.com/takoyaki99/Harvest-December-Reharvested-Portable
 
-UPDATE #3 -- 2/25/2022
+--- 
+
+## UPDATE HISTORY
+
+
+**- UPDATE #4 -- 4/8/2022**
+
+Hello, here's SilverCrow.
+
+I got to know this VN thanks to takoyaki who contacted me in one of my Repositories, letting me know about this project and Autumn's work.
+
+Afterwards he kindly passed me all the files of Autumn's work so I could have a better management of the project (also on Renpy SDK).
+
+I must say that I'm finding this VN particularly interesting, really "lively" humour with an engaging story.
+
+At the moment, with the indications and info provided by takoyaki, I tried to do some tests and to compile some raw ports of this PC Remake.
+
+Currently the game seems to run correctly without any devastating problems, on the contrary.
+We may soon release a PSVITA Port, then moving onto the Switch Port when it is fully optimised.
+
+If we need to, I hope we can release some patches to further improve the PSVITA experience.
+
+Right now the only "issue" is a bit of lag during continuos text skips (overclocking not needed but suggested).
+
+We'll keep you updated
+
+-SilerCrow
+
+----
+
+
+
+**- UPDATE #3 -- 2/25/2022**
 
 Hello for the third time! Small update here but--I have started (trying) to compile Autumn's port for the Switch version! The program I'm using doesn't want to work for whatever reason but I emailed the creator and am working on fixing it hopefully~! And as for the Vita version I saw that that one needs some more prerequisite programs, so that'll likely take a bit longer. I might need to make modifications to the Vita version depending on if the Vita version will crash or not in certain spots.
 
@@ -21,7 +60,9 @@ I appreciate your interest in this project!
 
 -takoyaki :)
 
-UPDATE #2 -- 2/4/2022
+---
+
+**- UPDATE #2 -- 2/4/2022**
 
 Hello again (again)!! Thanks to the amazing Autumn Rivers I was able to acquire A LOT of the stuff that I need! They are running a project VERY similar to mine, and I'd like to thank them and link their project here. Because they are officially supporting me, I have also decided to use the George Henry Shaft translation that they use. Sometime I may work on formatting the 3DS's script to RenPy, but for now I'll try compiling what Autumn has given me! Thanks so much for your help, Autumn~ (and please check them out if you own a PC!!) https://natirivers.itch.io/harvest-december-remake https://nitter.net/natirivers
 
@@ -31,7 +72,9 @@ I appreciate your continued interest!
 
 -takoyaki :)
 
-UPDATE #1 -- 11/30/2021
+---
+
+**- UPDATE #1 -- 11/30/2021**
 
 Hello again!! I have done some work on the project, but have hit a major snag in the conversion of image, video, and sound files from the 3DS version into filetypes specified by the script (.png, .mp4, .wav).
 
