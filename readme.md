@@ -19,7 +19,31 @@ Autumn's info~
 Happy reading!
 
 ## UPDATE HISTORY
-- **UPDATE #4 -- 4/8/2022**
+- **UPDATE #5 -- 04/10/2022**
+
+Hello, here's SilverCrow!
+
+We are happy to inform you that the work on the PSVITA Port is progressing with positive results! 
+
+We would like to thank Autumn, developer of the PC Remake, who never denied us his precious help, responding to any of our appeals.
+
+Speaking of the `Port for PSVITA` we can say that, after a few small improvements, already runs properly, so it's already possible to enjoy the complete story of the 3 Books available and taken from the PC Remake (the 4th and final Book is in the works!).
+
+The small problems still present and on which we are working are:
+
+- **Videos**: in the PC version there are some `mkv` videos that made up the Opening and the Credits cutscenes, then contained in the `Cinema` section of the `Extra` menu (unlocked finishing the first Book).
+Since there is no way to play them on `renpy-vita`, they will be replaced using the relative `OSTs` (tracks included in the `Extra` menu, section `Jukebox`).
+
+- **Staff credits**: all the links integrated in the original `About` section are present but not working, in the sense that they will not be able to automatically open a window in the `PSVITA Browser` when selected.
+To get around this problem will be added a dedicated section in the `Extra` menu, called (for the right) `Credits`, in which will be available all the needed `QR Codes` to reach those links with a simple smartphone!
+
+Work continues! We will keep you updated.
+
+-SilverCrow
+
+---
+
+- **UPDATE #4 -- 04/08/2022**
 
 Hello, here's SilverCrow.
 
@@ -43,7 +67,7 @@ We'll keep you updated
 
 ---
 
-- **UPDATE #3 -- 2/25/2022**
+- **UPDATE #3 -- 02/25/2022**
 
 Hello for the third time! Small update here but--I have started (trying) to compile Autumn's port for the Switch version! The program I'm using doesn't want to work for whatever reason but I emailed the creator and am working on fixing it hopefully~! And as for the Vita version I saw that that one needs some more prerequisite programs, so that'll likely take a bit longer. I might need to make modifications to the Vita version depending on if the Vita version will crash or not in certain spots.
 
@@ -55,7 +79,7 @@ I appreciate your interest in this project!
 
 ---
 
-- **UPDATE #2 -- 2/4/2022**
+- **UPDATE #2 -- 02/04/2022**
 
 Hello again (again)!! Thanks to the amazing Autumn Rivers I was able to acquire A LOT of the stuff that I need! They are running a project VERY similar to mine, and I'd like to thank them and link their project here. Because they are officially supporting me, I have also decided to use the George Henry Shaft translation that they use. Sometime I may work on formatting the 3DS's script to RenPy, but for now I'll try compiling what Autumn has given me! Thanks so much for your help, Autumn~ (and please check them out if you own a PC!!) https://natirivers.itch.io/harvest-december-remake https://nitter.net/natirivers
 
