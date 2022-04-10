@@ -25,9 +25,9 @@ Hello, here's SilverCrow!
 
 We are happy to inform you that the work on the PSVITA Port is progressing with positive results! 
 
-We would like to thank Autumn, developer of the PC Remake, who never denied us his precious help, responding to any of our appeals.
+We would like to thank Autumn, developer of the PC Remake, who never denied us their precious help, responding to any of our appeals.
 
-Speaking of the `Port for PSVITA` we can say that, after a few small improvements, already runs properly, so it's already possible to enjoy the complete story of the 3 Books available and taken from the PC Remake (the 4th and final Book is in the works!).
+Speaking of the `Port for PSVITA` we can say that, after a few small improvements, already runs properly, so it's already possible to enjoy the complete story of the 3 Books available and taken from the PC Remake (the 4th book is in the works!).
 
 The small problems still present and on which we are working are:
 
