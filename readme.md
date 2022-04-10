@@ -1,6 +1,6 @@
 # Harvest December: Reharvested! Portable
 
-## Project introduction by takoyaki
+## PROJECT INTRODUCTION
 
 Welcome to Harvest December: Reharvested: Portable!
 
@@ -17,6 +17,8 @@ Autumn's info~
 - https://nitter.net/natirivers
 
 Happy reading!
+
+-takoyaki :)
 
 ## UPDATE HISTORY
 - **UPDATE #5 -- 04/10/2022**
