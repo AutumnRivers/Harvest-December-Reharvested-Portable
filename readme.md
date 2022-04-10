@@ -1,6 +1,6 @@
 # Harvest December: Reharvested! Portable
 
-## Project introduction by takoyaki99
+## Project introduction by takoyaki
 
 Welcome to Harvest December: Reharvested: Portable!
 
@@ -8,7 +8,7 @@ This is a RenPy port of the 3DS (and iOS and PC) VN "Harvest December", to the N
 
 Ths VN is in the process of being ported! Vita first and hopefully Switch afterwards!
 
-A big thank you to @SilverCrow2323 for being a huge help with the port! Without his help this project wouldn't have been able to get running off the ground!
+A big thank you to SilverCrow2323 for being a huge help with the port! Without his help this project wouldn't have been able to get running off the ground!
 
 I appreciate your continued interest in this project!
 
