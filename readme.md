@@ -15,12 +15,24 @@ I appreciate your continued interest in this project!
 Autumn's info~
 - https://natirivers.itch.io/harvest-december-remake 
 - https://nitter.net/natirivers
+- https://github.com/AutumnRivers
 
 Happy reading!
 
 -takoyaki :)
 
 ## UPDATE HISTORY
+
+- **UPDATE #5 -- 05/21/2022**
+
+Hello, this is takoyaki!!
+
+Not much right now. I'd like to apologize for the development basically slowing down a lot. My Switch broke so I can't really do much, including contact the other members of the project!! We're still working on the PS Vita and Switch ports, and I do want to say that the Vita version is still running beautifully~, and hopefully by the time I get it repaired we can get some progress on the Switch version as well!!
+
+Thank you very much for waiting, I really appreciate your patience and effort, including the amazing effort put together by the other members of the team~!!
+
+-takoyaki
+
 - **UPDATE #5 -- 04/10/2022**
 
 Hello, here's SilverCrow!
