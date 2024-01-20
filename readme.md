@@ -1,5 +1,7 @@
 # Harvest December: Reharvested! Portable
 
+[PROJECT ARCHIVED]
+
 ## PROJECT INTRODUCTION
 
 Welcome to Harvest December: Reharvested: Portable!
@@ -19,19 +21,18 @@ Autumn's info~
 
 Happy reading!
 
--takoyaki :)
+ :)
 
 ## UPDATE HISTORY
 
 - **UPDATE #5 -- 05/21/2022**
 
-Hello, this is takoyaki!!
+Hello!!
 
 Not much right now. I'd like to apologize for the development basically slowing down a lot. My Switch broke so I can't really do much, including contact the other members of the project!! We're still working on the PS Vita and Switch ports, and I do want to say that the Vita version is still running beautifully~, and hopefully by the time I get it repaired we can get some progress on the Switch version as well!!
 
 Thank you very much for waiting, I really appreciate your patience and effort, including the amazing effort put together by the other members of the team~!!
 
--takoyaki
 
 - **UPDATE #5 -- 04/10/2022**
 
@@ -89,7 +90,7 @@ But with this please be assured that I am actively-ish working behind the scenes
 
 I appreciate your interest in this project!
 
--takoyaki :)
+
 
 ---
 
@@ -101,7 +102,7 @@ In the end--I do think and hope that things will pick up with this project! Yay~
 
 I appreciate your continued interest!
 
--takoyaki :)
+
 
 ---
 
@@ -119,4 +120,4 @@ For now, until the files are able to somehow be converted, I'll be working on co
 
 I hope your coming December is as magical as Masaki, Yuki, Shiro, Kouhei, Sanae, and Mizuho's was!
 
--takoyaki :)
+
